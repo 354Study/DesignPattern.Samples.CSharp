@@ -1,0 +1,7 @@
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.exe.config
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.exe
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\bin\Debug\EDC.DesignPattern.AbstractFactory.pdb
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.csproj.AssemblyReference.cache
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.csproj.CoreCompileInputs.cache
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.exe
+F:\微软开源项目\DesignPattern.Samples.CSharp\EDC.DesignPattern.AbstractFactory\obj\Debug\EDC.DesignPattern.AbstractFactory.pdb
